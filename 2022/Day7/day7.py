@@ -6,15 +6,14 @@ class File:
 
     def size(self):
         total = 0
-        print(total)
         if type(self.c) == int:
             total = self.c
-            print(total)
+            # print(total)
         else:
             for f in self.c:
                 total += f.size()
-                print(total)
-        return total
+                # print(total)
+        return int(total)
 
     def disp(self):
         out = str("")
@@ -29,10 +28,13 @@ class File:
             print("end")
 
 
-terminal = open("demo7.txt")
+terminal = open("input7.txt")
 wd = "fuck"  # working directory
 fs = [File("/")]  # filesystem
+terminall = []
 for line in terminal:
+    terminall.append(line)
+for line in terminall:
     if line[0] == "$":
         if line[2] == "c":
             to = line.rpartition("cd")[2].strip()
@@ -69,6 +71,22 @@ for line in terminal:
         '''print(line.strip())
         for f in wd.c:
             print(f.n)'''
-fs[0].disp()
+# fs[0].disp()
+# directory, size <= 100,000, output sum of sizes
+# totall = 0
+# need = 30000000 - available space (70000000 = tot space - "/".size)
+need = fs[0].size() - 40000000
+candidate = fs[0]
 for f in fs:
-    print(f.n, f.size)
+    if type(f.c) == int:
+        continue
+    elif f.size() < need:  # > 100000:
+        continue
+    # totall += f.size()
+    # print(f.n, f.size())
+    if f.size() < candidate.size():
+        candidate = f
+print(candidate.n, candidate.size())
+# print(totall)
+# delete a dir, total spoace = 70,000,000, for update need 30,000,000
+# find smallest directory whose deletion would leave enough space for upd
