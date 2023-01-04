@@ -1,0 +1,6 @@
+Day1:
+learned some of the basics of OOP and regexs, recalled basics of counters and print checks.
+Day2:
+
+Day9:
+can't put hashable objects in unhashable ones (well, py doesn't allow you to, for good reason), learned a bit about how to make venvs to avoid import errors, some of the basics of numpy arrays
