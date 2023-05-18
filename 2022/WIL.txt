@@ -4,3 +4,10 @@ Day2:
 
 Day9:
 can't put hashable objects in unhashable ones (well, py doesn't allow you to, for good reason), learned a bit about how to make venvs to avoid import errors, some of the basics of numpy arrays
+noted that the return statement will break out of the function which can be used for really clean if statements, also used sets for keeping track of things that ignore duplicates which felt like a sweet 'data types ftw!' moment. Venvs have .gitignore in them as a good practice since apparently things can get messy with moving around venvs. learned it the hard way. But also learned that ChatGPT can just do most of what you spent a whole day on with a prompth you just put together in 5 minutes because AAAAAAH what am I supposed to feel about this? On the one hand it's taking away a lot of the boring mundane parts of programming and intellectual tasks, on the other hand it might be capable of more than that and I'd like to do those non-mundane things myself and be considered valuable because of being able to do that, and like, a lot of what I/we do was mundane and I don't know how we're gonna be able to adjust now that all that shit seems to be easily done by a scalable software. 
+is keyword
+in keyword
+more concise code isn't necessarily better. the way I code I'd have something like if self.pos[0] < self.leader.pos[0]: self.pos += 1 and so on, but the way chatgpt did it was by giving the leader and self's position more intuitive name as temps, and worked with that. Makes it a lot more readable so it's easier to see what might be wrong if I were to have written it and wanted to debug. On the other hand it's more noobish if I were to have made it myself. 
+with 
+as just gives an object an alias to refer to it with. 
+<class '_io.TextIOWrapper'>
