@@ -47,30 +47,32 @@ class Knot:
 
 
 # Initializing
-series_of_motions = open('demo9.txt')
+series_of_motions = []  # making the list of the series of motions
+with open('input9.txt', 'r') as file:
+    for line in file:
+        line = line.strip().split(' ')
+        character = line[0]
+        number = int(line[1])
+        series_of_motions.append((character, number))
 grid = Grid()
 knot0 = Knot((0, 0))
 knot = [knot0]
-n = 1
+n = 9
 for i in range(n):
-    knot.append(Knot((0, 0), knot[i-1]))
+    knot.append(Knot((0, 0), knot[i]))
 
 
+# Makin' Moves
+grid.mark_visited((0, 0))
+for motion in series_of_motions:
+    for rep in range(motion[1]):
+        for k in range(len(knot)):
+            if k == 0:
+                knot[k].move(motion[0])
+            elif k == len(knot) - 1:
+                knot[k].move_towards_leader()
+                grid.mark_visited(knot[k].position)
+            else:
+                knot[k].move_towards_leader()
 
-grid.mark_visited((0, 0))  # Marking the initial position of the leader knot as visited
-
-# Moving the leader knot
-knot0.move('R')
-knot0.move('U')
-knot0.move('R')
-
-# Moving knots towards the leader knot
-knot[1].move_towards_leader()
-
-print(grid.is_visited((0, 0)))  # Output: True
-print(grid.is_visited((2, 1)))  # Output: False
-print(grid.is_visited((3, 2)))  # Output: False
-
-print(knot0.position)  # Output: (1, 1)
-print(knot[1].position)  # Output: (2, 1)
-
+print(f'the number of positions visited: {len(grid.visited)}')
