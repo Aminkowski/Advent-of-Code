@@ -1,0 +1,100 @@
+Game 1: 12 B, 15 R, 2 G; 17 R, 8 G, 5 B; 8 R, 17 B; 9 G, 1 B, 4 R
+Game 2: 6 R, 6 B, 2 G; 1 B, 1 R; 6 G, 1 R, 10 B
+Game 3: 1 G, 2 B; 7 B, 4 G; 2 G, 1 B; 10 B, 4 G; 4 B; 1 G, 7 B, 1 R
+Game 4: 16 R, 12 B, 10 G; 15 R, 5 G, 6 B; 10 G, 15 R, 12 B
+Game 5: 2 G, 2 R, 9 B; 1 R, 5 G; 4 G, 12 B, 1 R; 5 B, 8 G
+Game 6: 17 B, 3 G, 4 R; 6 G, 16 B, 3 R; 2 R, 15 B
+Game 7: 4 G, 10 R; 1 G, 4 R, 4 B; 4 B, 11 R
+Game 8: 8 G, 4 B; 17 G, 4 R; 10 B, 5 G, 9 R; 9 G, 8 R, 3 B; 9 G, 5 R, 2 B
+Game 9: 4 R, 2 G; 7 B, 3 R, 3 G; 3 G, 7 B, 3 R
+Game 10: 3 G, 2 R, 2 B; 3 G, 11 R, 1 B; 16 G, 11 R
+Game 11: 2 B, 18 G; 12 B, 1 G; 2 G, 6 B; 1 R, 4 B, 20 G; 14 B, 1 R, 4 G
+Game 12: 2 G, 1 B, 7 R; 11 R, 3 G, 6 B; 1 R, 2 B, 3 G; 4 R, 2 G, 5 B
+Game 13: 4 R, 17 B, 5 G; 6 B, 2 G; 12 B, 4 G, 2 R; 5 G, 9 B; 5 G, 3 B, 3 R; 4 G, 1 R, 7 B
+Game 14: 4 B, 18 G; 3 B, 3 R, 13 G; 5 B, 10 G; 10 G, 2 B; 1 B, 14 G; 3 B, 18 G, 2 R
+Game 15: 1 G, 2 B, 1 R; 1 G, 2 R, 1 B; 1 G, 2 R; 1 G, 4 B, 4 R; 6 B, 2 R, 1 G; 3 B, 2 R
+Game 16: 3 G, 2 R; 4 G, 1 R, 8 B; 5 B, 9 R, 3 G; 7 B, 19 G, 18 R
+Game 17: 10 B, 9 R, 7 G; 16 R, 11 G, 11 B; 8 B, 3 G; 12 R, 1 B, 10 G
+Game 18: 11 G, 11 B, 5 R; 7 R, 11 G, 13 B; 5 G, 9 R, 6 B; 9 R, 16 G, 17 B
+Game 19: 8 R, 3 G, 16 B; 13 G, 8 B; 7 R, 8 G, 1 B; 13 R, 3 B, 7 G; 6 G, 14 B, 13 R; 15 B, 9 G, 13 R
+Game 20: 1 R, 7 G, 5 B; 14 G, 4 B; 10 G, 11 B, 2 R; 2 R, 3 B, 1 G; 1 R, 5 B, 8 G
+Game 21: 10 G, 12 B, 6 R; 17 B, 6 R, 6 G; 12 B, 9 G, 4 R; 5 B, 3 R, 4 G; 6 G, 7 B, 5 R
+Game 22: 1 B, 3 R, 16 G; 4 R, 1 B, 3 G; 12 G, 1 B, 2 R; 12 R
+Game 23: 2 R, 6 B, 1 G; 11 R, 13 B, 4 G; 8 R, 3 B, 6 G; 2 G, 8 B, 2 R; 7 R, 11 B, 4 G
+Game 24: 4 R, 12 G, 2 B; 8 B, 15 R; 1 B, 10 G, 8 R; 1 G, 2 B, 6 R; 10 G, 8 B, 5 R
+Game 25: 2 B, 11 G; 17 G, 1 R, 2 B; 2 B, 3 R, 1 G
+Game 26: 16 B, 11 G; 4 G; 9 G, 4 B; 10 G, 5 B; 1 R, 5 B, 9 G; 5 G, 5 B
+Game 27: 10 G, 2 R; 5 B, 1 R; 6 R, 5 G
+Game 28: 3 R, 5 G, 10 B; 1 R, 5 G, 2 B; 6 B, 2 G, 2 R; 6 R, 9 B, 1 G; 3 R; 3 R, 2 G, 2 B
+Game 29: 8 R, 18 B, 5 G; 1 B, 8 R, 2 G; 2 R, 4 G, 18 B; 6 R, 4 G, 7 B
+Game 30: 1 R, 18 G; 11 G; 4 B, 5 R, 14 G; 3 G, 8 B, 2 R
+Game 31: 1 R, 5 B, 17 G; 7 B; 10 G, 8 B, 1 R; 11 G, 4 B
+Game 32: 5 B, 15 R, 12 G; 6 R, 8 G, 8 B; 2 R, 14 G, 3 B; 4 B, 15 G; 7 B, 12 R, 7 G; 2 B, 9 R, 7 G
+Game 33: 13 R, 2 G; 1 G, 7 R, 15 B; 1 G, 14 B, 13 R; 8 R, 2 G; 12 R, 14 B, 10 G; 8 G, 16 B, 10 R
+Game 34: 11 G, 9 B, 2 R; 4 R, 1 G, 8 B; 4 B, 7 G, 4 R; 7 B, 1 R, 8 G; 9 B, 1 R, 4 G; 2 R, 10 G, 4 B
+Game 35: 3 R, 9 B; 11 B, 3 R, 12 G; 7 G, 10 B, 2 R
+Game 36: 9 B, 3 G, 3 R; 5 B, 1 R, 3 G; 2 G, 6 R; 9 B, 7 R
+Game 37: 1 R, 7 B; 4 R, 1 G; 1 G, 9 R, 9 B
+Game 38: 1 G, 12 R; 4 G, 12 R, 4 B; 5 G, 10 R; 6 R, 4 G, 3 B; 4 G, 10 R; 2 G, 5 B, 4 R
+Game 39: 2 B; 4 R; 4 R, 5 G, 1 B
+Game 40: 7 R, 2 G, 17 B; 12 G, 1 R, 7 B; 9 G, 2 R, 8 B
+Game 41: 18 G, 5 R, 4 B; 20 G, 17 B, 5 R; 3 R, 7 B, 7 G; 4 R, 19 G, 18 B; 20 B, 20 G
+Game 42: 1 G, 6 B, 1 R; 5 B, 1 R, 3 G; 3 G, 7 B, 1 R
+Game 43: 4 B, 6 G, 13 R; 16 R, 7 B, 8 G; 4 G, 16 R
+Game 44: 5 G, 4 R, 13 B; 4 R, 12 B, 3 G; 6 G
+Game 45: 1 R, 17 B, 15 G; 6 R, 3 G, 9 B; 5 G, 1 B, 7 R; 6 B, 4 R, 4 G
+Game 46: 1 B, 11 R, 1 G; 2 R, 2 G, 1 B; 4 R, 1 G, 1 B; 2 B, 7 R, 3 G; 11 R, 3 G
+Game 47: 2 R, 1 B; 1 G, 1 R, 1 B; 5 G, 1 R
+Game 48: 9 B, 1 R; 1 G, 2 R, 11 B; 2 R, 6 B
+Game 49: 5 B, 7 R, 17 G; 5 R, 4 G, 7 B; 1 R, 3 B; 4 R, 12 G, 6 B; 6 G, 4 B, 3 R
+Game 50: 11 B, 12 G, 1 R; 8 G, 7 R, 9 B; 13 R, 12 B, 10 G; 5 G, 10 B, 3 R
+Game 51: 8 B, 1 R; 5 R, 2 G; 9 B, 6 R, 4 G; 4 G, 1 R, 13 B; 15 B, 3 R, 8 G; 6 R, 1 G, 4 B
+Game 52: 2 B, 1 R; 1 R, 4 B, 5 G; 3 R, 14 B, 2 G
+Game 53: 8 B, 10 G, 11 R; 5 R, 4 B, 19 G; 8 R, 3 B; 3 R, 3 B, 2 G; 4 R, 4 G
+Game 54: 3 G, 17 R; 7 G, 13 R, 5 B; 11 B, 10 R, 10 G; 3 G, 19 R, 4 B; 11 G, 6 B, 19 R; 5 R, 4 B, 9 G
+Game 55: 3 B, 4 R; 1 R, 1 B, 2 G; 4 B, 2 G, 4 R
+Game 56: 10 R, 3 G, 5 B; 2 B, 2 R; 7 R, 3 B, 2 G
+Game 57: 12 R, 1 B, 8 G; 1 B, 3 G, 10 R; 5 G, 8 R
+Game 58: 6 R, 4 G, 2 B; 7 R, 6 B, 14 G; 5 B, 6 R, 2 G; 2 R, 4 B; 7 B, 12 G; 7 G, 3 B, 8 R
+Game 59: 6 R, 5 B; 5 B, 1 G; 1 B, 6 R; 4 B, 2 R, 1 G; 3 R, 2 B; 3 B, 5 R, 1 G
+Game 60: 1 R, 12 G, 2 B; 4 R, 5 B; 12 G, 1 R; 5 B, 13 R, 17 G; 15 G, 1 B
+Game 61: 10 B, 18 R; 4 B, 1 G, 14 R; 4 B, 2 G; 2 G, 6 R, 10 B
+Game 62: 2 G, 13 B, 8 R; 7 G, 5 R, 8 B; 5 R, 8 B; 3 R, 5 G, 4 B; 15 B, 5 R, 6 G
+Game 63: 6 R, 7 G, 2 B; 2 R, 6 G; 2 B, 4 R, 5 G; 1 B, 2 R, 5 G; 4 R, 8 G; 9 G, 2 R
+Game 64: 4 R, 4 B; 7 B, 5 R; 8 G, 5 R, 6 B; 2 R, 3 B, 1 G; 7 B, 9 G, 7 R; 11 G, 2 R, 3 B
+Game 65: 1 R, 11 G, 9 B; 2 R, 5 G, 17 B; 2 R, 3 B, 6 G; 2 R, 6 G, 14 B
+Game 66: 7 G, 5 R, 2 B; 5 R, 7 G, 2 B; 6 G, 3 B, 15 R; 8 G, 20 R, 4 B; 8 R, 8 G, 3 B; 3 B, 11 R, 5 G
+Game 67: 2 B, 2 G; 6 B, 1 G, 3 R; 3 R, 7 G, 4 B; 1 R, 1 G, 8 B
+Game 68: 1 G, 3 R; 2 G, 1 B, 5 R; 2 R, 2 G, 1 B; 2 G, 3 R, 1 B; 6 R, 1 B
+Game 69: 4 R, 2 G, 3 B; 14 R; 3 B; 11 R, 1 G; 13 R, 3 G, 2 B
+Game 70: 1 G, 1 B, 6 R; 1 G, 4 R, 1 B; 6 R, 1 B
+Game 71: 1 G, 8 B, 10 R; 6 G, 3 R, 2 B; 14 R, 3 G; 9 B, 2 G, 2 R; 7 B, 5 R, 1 G; 6 G, 5 B, 10 R
+Game 72: 2 R, 10 B; 1 R, 7 B, 4 G; 1 R, 3 G, 6 B
+Game 73: 6 R, 6 B, 5 G; 1 B, 11 G, 7 R; 10 R, 7 B, 2 G
+Game 74: 4 G, 2 R, 3 B; 1 R, 6 G; 2 R, 4 B; 1 B; 2 B, 1 G
+Game 75: 10 R, 5 B, 1 G; 12 B; 2 G, 11 B, 9 R; 1 B, 14 R; 2 R, 2 G, 13 B
+Game 76: 9 G, 1 B; 8 G, 2 B, 7 R; 4 B, 7 G, 4 R
+Game 77: 14 R, 3 B, 10 G; 3 B, 7 G, 2 R; 5 R, 7 G, 3 B; 14 R, 8 G, 3 B; 9 G, 5 R; 2 B, 7 R, 15 G
+Game 78: 5 B, 9 G, 8 R; 11 G, 9 B, 4 R; 8 R, 2 B, 10 G; 3 B, 7 G
+Game 79: 4 R, 6 B, 10 G; 2 B, 17 G, 15 R; 15 R, 6 B, 14 G
+Game 80: 2 R, 8 G; 6 B, 6 G; 1 G, 3 R, 8 B; 5 G, 4 B, 3 R; 3 B, 1 R; 7 G, 8 B, 3 R
+Game 81: 5 B, 1 R; 10 B, 7 R, 3 G; 4 G, 1 R, 10 B; 8 R, 4 B, 3 G; 11 B, 9 G, 1 R; 6 R, 10 G
+Game 82: 1 G, 2 B, 1 R; 2 B, 1 G, 2 R; 2 R, 8 G; 3 R, 3 B, 5 G
+Game 83: 3 B, 4 G, 5 R; 6 B, 5 R, 5 G; 4 R, 2 B, 5 G; 2 G, 6 B, 5 R; 1 R, 2 G
+Game 84: 14 B, 1 G; 9 G, 3 R, 1 B; 5 G, 10 B, 3 R; 9 G; 6 G, 18 B; 2 R, 8 G
+Game 85: 1 B, 7 R; 12 G, 7 R, 5 B; 9 B, 6 G, 7 R; 10 R, 7 G, 1 B; 3 G, 6 B, 7 R; 10 R, 16 B
+Game 86: 9 R, 10 B, 2 G; 2 R, 12 B, 9 G; 11 G, 2 B, 3 R
+Game 87: 1 B, 7 R, 9 G; 1 R, 6 B; 3 B, 12 G
+Game 88: 1 B, 4 G; 4 R, 13 B, 1 G; 7 G, 4 B, 3 R; 2 B, 4 G, 5 R; 4 R, 7 G, 10 B; 1 R, 7 G, 13 B
+Game 89: 5 B, 8 R, 1 G; 7 B, 2 G, 7 R; 2 G, 8 B, 11 R
+Game 90: 5 B, 1 G, 11 R; 6 B, 8 R; 2 R, 3 B, 4 G; 2 G, 4 B, 7 R; 3 B, 8 R; 6 R, 3 B, 1 G
+Game 91: 2 G, 13 R, 9 B; 12 B, 6 G; 14 G, 10 B, 3 R; 13 B, 7 G, 5 R; 1 G, 9 B, 14 R; 10 G, 8 B, 17 R
+Game 92: 10 G, 3 R, 17 B; 13 R, 7 G, 15 B; 9 B, 8 R, 4 G; 1 B, 8 R; 9 R, 1 G, 19 B
+Game 93: 1 B, 7 G, 4 R; 2 B, 8 G; 10 R, 10 G, 1 B; 10 G, 2 B; 3 R, 3 B
+Game 94: 5 R, 8 G, 14 B; 4 R, 7 G, 20 B; 11 B, 4 R, 13 G; 18 B, 1 R, 3 G
+Game 95: 5 R, 8 G, 11 B; 12 G, 5 B; 4 B, 14 G; 7 G, 9 B, 5 R; 3 R, 4 G, 7 B; 3 R, 12 B, 3 G
+Game 96: 10 R, 12 B, 9 G; 4 G, 8 B, 4 R; 8 B, 3 R, 4 G; 6 G, 10 R; 2 B, 3 G, 15 R; 12 R, 2 G, 2 B
+Game 97: 13 G, 1 B; 9 G, 1 R, 1 B; 6 B, 10 G; 1 R, 6 B, 11 G
+Game 98: 2 B, 14 G, 2 R; 7 G, 1 B; 1 B, 1 R, 3 G; 2 R, 1 B, 15 G; 1 B, 2 R, 10 G
+Game 99: 3 G, 8 R, 7 B; 6 R, 13 B; 12 R, 4 G, 4 B; 12 R, 8 G, 3 B; 11 B, 11 R, 4 G
+Game 100: 2 R, 13 B, 1 G; 1 G, 12 B; 1 R, 5 B, 1 G; 3 B, 3 R
